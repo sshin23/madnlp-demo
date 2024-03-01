@@ -23,9 +23,6 @@ docs/site/
 # environment.
 Manifest.toml
 
-# data files
-pglib*.m
-
 # ampl nl files
 *.nl
 
